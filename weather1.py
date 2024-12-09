@@ -2,6 +2,8 @@ import streamlit as st
 import requests
 from datetime import datetime
 
+st.image("76818-forecasting-material-rain-shower-weather-icon.png",width=400)
+
 # API Keys
 WEATHER_API_KEY = "c636a75a96c74aeced3f5b2e0f056787"
 GEOCODE_API_KEY = "2a8c929f9c434f978fda64e8027ea1c2"
